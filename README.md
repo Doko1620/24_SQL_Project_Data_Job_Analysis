@@ -200,7 +200,7 @@ Here is the breakdown of these findings:
 3. **Data Engineering skills create a competitive advantage**
 - Technologies like Hadoop, Spark, NoSQL and SSIS indicate that analysts who can work with large-scale data pipelines and infrastructure often earn higher salaries than those focused solely on reporting and dashboards.
 
-![Top ML Skills by Average Salary](assets\avg_salary_ml.png)
+![Top ML Skills by Average Salary](assets/avg_salary_ml.png)
 *Bar graph visualization of the top ML skills by average salary*
 
 ![Top ML Skills by Demands and Average Salary](assets\ml_skill_demand_salary.png)
