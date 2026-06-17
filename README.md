@@ -203,10 +203,10 @@ Here is the breakdown of these findings:
 ![Top ML Skills by Average Salary](assets/avg_salary_ml.png)
 *Bar graph visualization of the top ML skills by average salary*
 
-![Top ML Skills by Demands and Average Salary](assets\ml_skill_demand_salary.png)
+![Top ML Skills by Demands and Average Salary](assets/ml_skill_demand_salary.png)
 *Bar graph visualization of the top ML skills by average demands*
 
-![Top Data Analyst Skills by Demands and Average Salary](assets\demand_avg_salary.png)
+![Top Data Analyst Skills by Demands and Average Salary](assets/demand_avg_salary.png)
 *Bar graph visualization of the top Data Analyst skills by average demands*
 # What I Learned
 
