@@ -14,6 +14,10 @@ The analytics job market has become increasingly competitive, making it essentia
 4. What are the top-paying skills for machine learning engineer jobs?
 5. What are the most optimal skills for data analyst jobs?
 
+### Notes
+
+`06_analytics.sql` and `07_timeline.sql` are for **testing and experimentation** only. Not part of the final analysis.
+
 # Tools I Used
 
 ### SQL
@@ -207,7 +211,11 @@ Here is the breakdown of these findings:
 *Bar graph visualization of the top ML skills by average demands*
 
 ![Top Data Analyst Skills by Demands and Average Salary](assets/demand_avg_salary.png)
-*Bar graph visualization of the top Data Analyst skills by average demands*
+*Circle graph visualization of the top Data Analyst skills by average demands*
+
+![Top Data Analyst Skills by Demands and Average Salary](assets/job_posting_over_year.png)
+*Line chart visualization of job postings over the year*
+
 # What I Learned
 
 Through this project, several important insights emerged:
